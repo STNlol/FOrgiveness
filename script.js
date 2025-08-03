@@ -1,6 +1,6 @@
 function forgive() {
   alert("THANK YOU ANISSS! :)");
-  location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
+  location.href = "https://www.instagram.com/sitharth_stn?igsh=MTkzY2l1eWNzMWdmYw==";
 }
 
 function teleportButton(min, max) {
@@ -11,4 +11,5 @@ function dodge(btn) {
   btn.style.position = "absolute";
   btn.style.bottom = teleportButton(10, 90);
   btn.style.left = teleportButton(10, 90);
+
 }
